@@ -1,0 +1,2 @@
+https://superflixapi.dev/filmes/
+https://superflixapi.dev/serie/
